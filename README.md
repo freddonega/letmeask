@@ -12,7 +12,7 @@ Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
 $ git clone https://github.com/freddonega/letmeask
-$ cd nlw-06-reactjs
+$ cd letmeask
 ```
 
 Para iniciá-lo, siga os passos abaixo:
